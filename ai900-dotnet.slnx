@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ai900Genai/Ai900Genai.csproj" />
+    <Project Path="src/Ai900Ml/Ai900Ml.csproj" />
+  </Folder>
+</Solution>
